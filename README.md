@@ -1,6 +1,7 @@
 # Love2D Simple Game
 All games made with Lua and [LÖVE](http://love2d.org) framework. <br>
 Following games may use the libs: <br />
+<br/>
 [Classic](https://github.com/rxi/classic), by rxi <br/>
 [Push](https://github.com/Ulydev/push), by Ulydev
 
