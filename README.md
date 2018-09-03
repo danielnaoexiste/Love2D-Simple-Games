@@ -15,4 +15,4 @@ Inspired by Santos [Simple Game Tutorials](https://simplegametutorials.github.io
 <br />
 This game uses the libs: <br />
 [Classic](https://github.com/rxi/classic/), by rxi <br/>
-[Push](https://github.com/Ulydev/push), by Ulydev <br/>
+[Push](https://github.com/Ulydev/push), by Ulydev
