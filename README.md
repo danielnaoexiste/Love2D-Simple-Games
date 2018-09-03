@@ -7,6 +7,8 @@ Following games may use the libs: <br />
 
 ## LovePong
 Pong clone made following CS50's Introduction to Game Development - Lecture 0. <br/>
+<br/>
+Available on [YouTube.](https://www.youtube.com/watch?v=GfwpRU0cT10)
 
 ## LoveBirb
 Work in Progress Flappy Bird clone.<br/> 
