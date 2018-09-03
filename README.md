@@ -6,7 +6,6 @@ Following games may use the libs: <br />
 * [Push](https://github.com/Ulydev/push), by Ulydev
 
 ## LovePong
-<br/>
 Pong clone made following CS50's Introduction to Game Development - Lecture 0. <br/>
 
 ## LoveBirb
