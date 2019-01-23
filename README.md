@@ -15,3 +15,5 @@ Work in Progress Flappy Bird clone.<br/>
 <br/>
 Inspired by Santos [Simple Game Tutorials.](https://simplegametutorials.github.io/) <br/>
 <br />
+
+## [License](LICENSE)
