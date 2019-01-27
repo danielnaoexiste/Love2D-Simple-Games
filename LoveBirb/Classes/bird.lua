@@ -11,6 +11,7 @@ end
 
 function Bird:update(dt)
     -- Gravity
+    print(self.ySpeed)
     self.ySpeed = self.ySpeed + (516 * dt);
     self.y = self.y + (self.ySpeed * dt);
 end
