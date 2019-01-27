@@ -1,4 +1,4 @@
-# Love2D Simple Game
+# Love2D Simple Games
 All games made with Lua and [LÖVE](http://love2d.org) framework. <br>
 <br/>
 Following games may use the libs: <br />
