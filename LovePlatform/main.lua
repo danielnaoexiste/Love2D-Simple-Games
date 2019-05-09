@@ -4,7 +4,7 @@
 
 -- Creates physics world
     world = bump.newWorld();
-    local map = require 'levels.level_1' 
+    local map = require 'Levels.level_1' 
     
 -- Requiring Classes
     require 'classes.player';
